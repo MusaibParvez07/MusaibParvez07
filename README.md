@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, there
+## I'm Musaib 👋
 
-<!--
-**MusaibParvez07/MusaibParvez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA Student at RV College of Engineering
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- JavaScript
+- Python
+- React.js
+- Node.js
+- MySQL
+- AWS
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Data Structures & Algorithms
+- Generative AI
+- Cloud Computing
+- Full Stack Development
+
+## Projects
+- AI Authenticity Detection Platform
+- AWS Smart Attendance System
+- Energy Consumption Analysis System
+
+
