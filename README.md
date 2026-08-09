@@ -23,5 +23,6 @@ MCA Student at RV College of Engineering
 - AI Authenticity Detection Platform
 - AWS Smart Attendance System
 - Energy Consumption Analysis System
+- LearnWise App
 
 
