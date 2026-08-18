@@ -1,79 +1,135 @@
 # Hi, I'm Musaib Parveez 👋
 
-### MCA Student @ RV College of Engineering | Software Development | DSA | AWS | AI/ML
+### MCA @ RV College of Engineering | Software Engineering | DSA | Full-Stack | AWS | AI/ML
 
-I'm an MCA student focused on building practical software and strengthening my problem-solving skills.
+I'm an MCA student at **RV College of Engineering** with a strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, and Software Development**.
 
-I enjoy working across **full-stack development, cloud infrastructure, Data Structures & Algorithms, and applied AI/ML**.
+I enjoy building practical software across **full-stack development, cloud infrastructure, and applied AI/ML**, with hands-on experience working with JavaScript, React.js, Node.js, MySQL, AWS, and modern AI technologies.
+
+Currently, I'm focused on strengthening my problem-solving skills through **DSA** while building projects that combine software engineering, cloud technologies, and AI.
+
+---
 
 ## 🚀 What I'm Working On
 
-* 🧠 Strengthening Data Structures & Algorithms using C++
-* ☁️ Building cloud-based applications with AWS
-* 🤖 Exploring Generative AI, NLP, LLMs, and Computer Vision
-* 💻 Developing full-stack applications with React.js, Node.js, and MySQL
+* 🧠 Strengthening **Data Structures & Algorithms** using C++
+* 💻 Building applications with **React.js, Node.js, JavaScript, and MySQL**
+* ☁️ Developing cloud-based solutions using **AWS**
+* 🤖 Exploring **Generative AI, LLMs, NLP, and Computer Vision**
+* 🐳 Learning and applying **Docker and modern development practices**
+* 🧪 Improving software quality through **testing and Agile/Scrum practices**
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-* C++
-* Python
-* JavaScript
+C++ • Python • JavaScript
 
-**Frontend**
+### Web Development
 
-* HTML
-* CSS
-* React.js
+HTML • CSS • React.js • Node.js • Express.js • PHP
 
-**Backend**
+### Databases
 
-* Node.js
-* PHP
+MySQL
 
-**Databases**
+### AI / ML
 
-* MySQL
+Generative AI • Large Language Models (LLMs) • NLP • CNNs • Vision Transformers • Prompt Engineering
 
-**AI / ML**
+### Cloud & DevOps
 
-* Generative AI
-* LLMs
-* NLP
-* CNNs
-* Vision Transformers
-* Prompt Engineering
+AWS • Docker • Git • GitHub
 
-**Cloud & DevOps**
+**AWS:** EC2 • S3 • VPC • IAM • RDS • Lambda • Rekognition • SNS • CloudWatch
 
-* AWS
-* Docker
-* Git / GitHub
+### Core CS
 
-**Core CS**
+Data Structures & Algorithms • Object-Oriented Programming • Unit Testing • Agile/Scrum
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Unit Testing
-* Agile / Scrum
+---
 
 ## 🔥 Featured Projects
 
-### AWS Smart Attendance System
+### ☁️ AWS Smart Attendance System
 
-Cloud-based facial-recognition attendance system built using AWS Rekognition, Lambda, S3, SNS, RDS, CloudWatch, and IAM.
+A facial-recognition-powered attendance system designed to automate attendance check-ins using AWS cloud services.
 
-### AI Authenticity Detection Platform
+**Technologies:** AWS Rekognition • EC2 • S3 • SNS • Lambda • RDS • CloudWatch • IAM
 
-AI-powered platform for detecting AI-generated and manipulated text and images using NLP, LLMs, CNNs, and Vision Transformers.
+* Designed a Lambda-driven serverless pipeline integrating Rekognition, S3, and SNS.
+* Automated attendance check-ins through facial recognition.
+* Implemented real-time attendance notifications using SNS.
+* Designed the system with scalability and cost efficiency in mind.
 
-### Energy Consumption Analysis System
+---
 
-Web-based energy analytics platform using JavaScript, PHP, MySQL, APIs, and interactive visualizations.
+### 🤖 AI Authenticity Detection Platform
+
+An ongoing AI platform focused on detecting manipulated and AI-generated text and images.
+
+**Technologies:** Generative AI • NLP • CNN • LLMs • Vision Transformers
+
+* Building a unified pipeline for text and image authenticity detection.
+* Developing classifiers to distinguish human-generated and AI-generated content.
+* Exploring transformer-based architectures for detecting subtle patterns.
+* Evaluating model performance against adversarial examples.
+
+---
+
+### ⚡ Energy Consumption Analysis System
+
+A web-based energy analytics platform that transforms appliance-level usage data into actionable consumption insights.
+
+**Technologies:** HTML • CSS • JavaScript • MySQL • PHP • PWA
+
+* Built interactive data visualizations to identify energy usage trends.
+* Integrated APIs to surface patterns from raw consumption data.
+* Designed a responsive interface accessible across devices.
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**
+RV College of Engineering, Bengaluru
+2025 – 2027 | **CGPA: 8.95**
+
+**Bachelor of Computer Applications (BCA)**
+NIELIT, Srinagar, J&K
+2022 – 2025 | **CGPA: 7.77**
+
+---
+
+## 💼 Experience
+
+**Cyber Security Intern — NIELIT Srinagar**
+Jul 2025 – Sep 2025
+
+Worked on system and network log analysis, manual security testing of internal web applications, and incident-response documentation.
+
+**Data Entry Operator — Unifiers Social Ventures**
+Apr 2022 – Oct 2022
+
+Worked with high-volume structured data, validation processes, and record-keeping systems to improve data accuracy and accessibility.
+
+---
 
 ## 🎯 Currently
 
-Preparing for **software engineering internships and entry-level opportunities**, with a focus on problem solving, scalable applications, cloud technologies, and applied AI.
+I'm preparing for **software engineering internships and entry-level opportunities**, with a focus on:
 
-📫 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/musaib-parveez-07)
+**Problem Solving • Software Development • Full-Stack Development • AWS/Cloud • Applied AI/ML**
+
+I enjoy learning by building and continuously improving my technical foundations.
+
+---
+
+## 📫 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/musaib-parveez-07ms39ab/)
+* 💻 [GitHub](https://github.com/MusaibParvez07)
+
+---
