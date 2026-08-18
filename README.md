@@ -12,7 +12,6 @@ I enjoy working across **full-stack development, cloud infrastructure, Data Stru
 * ☁️ Building cloud-based applications with AWS
 * 🤖 Exploring Generative AI, NLP, LLMs, and Computer Vision
 * 💻 Developing full-stack applications with React.js, Node.js, and MySQL
-* 🐳 Learning and applying Docker and modern development practices
 
 ## 🛠️ Tech Stack
 
